@@ -1,0 +1,8 @@
+#### Tasks
+
+* [ ] Create a new Issue WIP isuue in the class repo named appropriately()
+* [ ] Estimate all the top-level tasks with _T-shirt sizes_: _S_, _M_, _L_, _XL_()
+* [ ] Edit your wiki: Assigment Evaluation, _Light Bulbs_, and _Things I Don't Get Yet_()
+* [ ] Create a new page in your `TIY-Assignments` repo()
+* [ ] Create a branch in your `TIY-Assignments` repo, named appropriately 
+	* [ ] A Pull Request in your TIY-Assignments folder
